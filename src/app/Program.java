@@ -1,7 +1,5 @@
 package app;
 
-import java.sql.SQLOutput;
-
 public class Program {
     public static void main(String[] args) {
         /* %d: para variáveis inteiras (int)
