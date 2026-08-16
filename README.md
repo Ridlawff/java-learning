@@ -27,8 +27,8 @@ This repository is where I keep my exercises, small projects, and notes while st
 * Java
 * SQL
 * Git
-* GitHub
-* IntelliJ IDEA
+
+
 
 ## Goal
 
